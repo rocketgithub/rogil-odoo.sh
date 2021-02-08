@@ -1,0 +1,1 @@
+# rogil-odoo.sh
