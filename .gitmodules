@@ -10,3 +10,6 @@
 	path = fel_ecofactura
 	url = git@github.com:rocketgithub/fel_ecofactura.git
 	branch = 13.0
+[submodule "pos_fel"]
+	path = pos_fel
+	url = git@github.com:rocketgithub/pos_fel.git
