@@ -17,3 +17,7 @@
 	path = pos_gt
 	url = git@github.com:rocketgithub/pos_gt.git
 	branch = 14.0
+[submodule "fel_digifact"]
+	path = fel_digifact
+	url = git@github.com:rocketgithub/fel_digifact.git
+	branch = 13.0
