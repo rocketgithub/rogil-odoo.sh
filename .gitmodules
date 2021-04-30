@@ -21,3 +21,7 @@
 	path = fel_digifact
 	url = git@github.com:rocketgithub/fel_digifact.git
 	branch = 13.0
+[submodule "kardex"]
+	path = kardex
+	url = git@github.com:rocketgithub/kardex.git
+	branch = 13.0
